@@ -1,0 +1,6 @@
+SELECT ANIMAL_TYPE, COUNT(*)
+FROM ANIMAL_INS
+GROUP BY ANIMAL_TYPE
+ORDER BY ANIMAL_TYPE;
+
+--  집계함수를 제외한 모든 필드는 GROUP BY를 통해서 그룹화를 시켜야 한다
