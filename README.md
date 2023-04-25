@@ -1,5 +1,5 @@
 # Programmers
-- 프로그래머스 자바로 풀기
+- `Java & Kotlin`으로 프로그래머스 문제풀기
 <br>
 
 # Commit Rule
